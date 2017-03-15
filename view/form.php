@@ -3,7 +3,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script type="text/javascript" src="/tiny_mce/tiny_mce.js"></script>
-<script type="text/javascript" src="/js2/main.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
 </head>
 <body>
 <div class="container_fluid">
