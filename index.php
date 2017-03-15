@@ -18,6 +18,7 @@
                 if(!$email_from || !preg_match('#.+@.+\..+#i',$email_from)) $email_from = 'noreply@'.$_SERVER['HTTP_HOST'];
 
                 require_once 'classes/PHPMailer.php';
+                
                 $mail = new PHPMailer;
                 $mail->setFrom($email_from, $name_from);
                 $mail->addAddress($email_to);
