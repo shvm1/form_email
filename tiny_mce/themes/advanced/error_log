@@ -1,0 +1,23 @@
+[10-Nov-2009 12:49:24] PHP Warning:  imagecreatefromgif(): '/var/tmp/php5nD2Ua' is not a valid GIF file in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 44
+[10-Nov-2009 12:49:24] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[10-Nov-2009 12:50:07] PHP Warning:  imagecreatefromgif(): '/var/tmp/phpIh7tg4' is not a valid GIF file in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 44
+[10-Nov-2009 12:50:07] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[10-Nov-2009 12:51:18] PHP Warning:  imagecreatefromgif(): '/var/tmp/phpNjB5uM' is not a valid GIF file in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 44
+[10-Nov-2009 12:51:18] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[10-Nov-2009 12:53:51] PHP Warning:  imagecreatefromgif(): '/var/tmp/phpgweu9T' is not a valid GIF file in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 44
+[10-Nov-2009 12:53:51] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[10-Nov-2009 12:54:22] PHP Warning:  imagecreatefromgif(): '/var/tmp/phpJKzO9l' is not a valid GIF file in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 44
+[10-Nov-2009 12:54:22] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[16-Nov-2009 12:51:24] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 43
+[16-Nov-2009 12:51:24] PHP Warning:  imagecreatefromjpeg(): '/var/tmp/phpcFnQPk' is not a valid JPEG file in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 43
+[16-Nov-2009 12:51:24] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[25-Dec-2009 14:11:52] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[25-Dec-2009 14:12:10] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[08-Feb-2010 14:31:52] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[06-Apr-2010 14:22:52] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 43
+[06-Apr-2010 14:22:52] PHP Warning:  imagecreatefromjpeg(): '/var/tmp/phpOItm6J' is not a valid JPEG file in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 43
+[06-Apr-2010 14:22:52] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[13-May-2010 11:53:06] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[28-May-2010 11:16:34] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[28-May-2010 11:17:09] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
+[28-May-2010 11:17:38] PHP Warning:  in_array(): Wrong datatype for second argument in /home/azovsky5/public_html/morezovet/admin/tiny_mce/themes/advanced/image.php on line 95
